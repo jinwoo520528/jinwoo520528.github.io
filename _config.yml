@@ -105,7 +105,10 @@ content:
         title: KAIST
         caption: 2019 - 2021.8
         sub_title: MS Electrical Engineering
-
+      - layout: left
+        title: KAIST
+        caption: 2021 - 
+        sub_title: Ph.D. Electrical Engineering
 
 #  - title: A Little More About Me
 #    layout: text
