@@ -56,20 +56,29 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: GRAF: a graph neural network based proactive resource allocation framework for SLO-oriented microservices
+        link: https://dl.acm.org/doi/abs/10.1145/3485983.3494866
+        author: Jinwoo Park, Byungkwon Choi, Chunghan Lee, Dongsu Han
+      - layout: top-middle
+        title: Neuro-DCF: Design of Wireless MAC via Multi-Agent Reinforcement Learning Approach
+        link: https://dl.acm.org/doi/abs/10.1145/3466772.3467043
+        author: Sangwoo Moon, Sumyeong Ahn, Kyunghwan Son, Jinwoo Park, Yung Yi
+      - layout: top-middle
+        title: pHPA: A Proactive Autoscaling Framework For Microservice Chain
+        link: https://conferences.sigcomm.org/events/apnet2021/papers/apnet2021-8.pdf       
+        author: Byungkwon Choi, Jinwoo Park, Chunghan Lee, Dongsu Han        
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        #description: | # this will include new lines to allow paragraphs
+        #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
