@@ -55,18 +55,18 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: "GRAF: a graph neural network based proactive resource allocation framework for SLO-oriented microservices"
         description: Jinwoo Park, Byungkwon Choi, Chunghan Lee, Dongsu Han        
-        url: https://dl.acm.org/doi/abs/10.1145/3485983.3494866
-      - layout: top-middle
+        link: https://dl.acm.org/doi/abs/10.1145/3485983.3494866
+      - layout: left
         title: "Neuro-DCF: Design of Wireless MAC via Multi-Agent Reinforcement Learning Approach"
         description: Sangwoo Moon, Sumyeong Ahn, Kyunghwan Son, Jinwoo Park, Yung Yi        
-        url: https://dl.acm.org/doi/abs/10.1145/3466772.3467043
-      - layout: top-middle
+        link: https://dl.acm.org/doi/abs/10.1145/3466772.3467043
+      - layout: left
         title: "pHPA: A Proactive Autoscaling Framework For Microservice Chain"
         description: Byungkwon Choi, Jinwoo Park, Chunghan Lee, Dongsu Han                
-        url: https://conferences.sigcomm.org/events/apnet2021/papers/apnet2021-8.pdf       
+        link: https://conferences.sigcomm.org/events/apnet2021/papers/apnet2021-8.pdf       
         # link_text: Project Website
         #additional_links:
         #  - title:  sproogen/modern-resume-theme
