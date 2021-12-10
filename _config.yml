@@ -32,7 +32,7 @@ linkedin_username: jinwoo520528
 # Additional icon links
 additional_links:
 - title: google scholar
-  icon: fas fa-globe
+  icon: fas fa-scholar
   url: https://scholar.google.com/citations?hl=en&user=C-4x6scAAAAJ
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -49,6 +49,7 @@ additional_links:
 about_profile_image: images/IMG_8350.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Jinwoo and I'm a PH.D. Candidate in Electrical Engineering at KAIST. My research interests focus on applying AI to the system.
+  Specifically, my research aims to enhance performance of the systems by integrating a novel AI technique to the system design.
 
 
 content:
