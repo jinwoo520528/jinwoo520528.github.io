@@ -32,7 +32,7 @@ linkedin_username: jinwoo520528
 # Additional icon links
 additional_links:
 - title: google scholar
-  icon: fas fa-scholar
+  icon: fas scholar
   url: https://scholar.google.com/citations?hl=en&user=C-4x6scAAAAJ
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
