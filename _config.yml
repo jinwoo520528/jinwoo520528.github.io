@@ -32,7 +32,7 @@ linkedin_username: jinwoo520528
 # Additional icon links
 additional_links:
 - title: google scholar
-  icon: fas graduation-cap
+  icon: fas fa-graduation-cap
   url: https://scholar.google.com/citations?hl=en&user=C-4x6scAAAAJ
 - title: INA lab
   icon: fas fa-globe
