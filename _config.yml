@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/IMG_8350.JPG
+about_profile_image: images/IMG_8350.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Jinwoo and I'm a PH.D. Candidate in Electrical Engineering at KAIST. My research interests focus on applying AI to the system.
 
