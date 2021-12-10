@@ -57,15 +57,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: "GRAF: a graph neural network based proactive resource allocation framework for SLO-oriented microservices"
+        sub_title: "GRAF: a graph neural network based proactive resource allocation framework for SLO-oriented microservices"
         description: Jinwoo Park, Byungkwon Choi, Chunghan Lee, Dongsu Han        
         link: https://dl.acm.org/doi/abs/10.1145/3485983.3494866
       - layout: top
-        title: "Neuro-DCF: Design of Wireless MAC via Multi-Agent Reinforcement Learning Approach"
+        sub_title: "Neuro-DCF: Design of Wireless MAC via Multi-Agent Reinforcement Learning Approach"
         description: Sangwoo Moon, Sumyeong Ahn, Kyunghwan Son, Jinwoo Park, Yung Yi        
         link: https://dl.acm.org/doi/abs/10.1145/3466772.3467043
       - layout: top
-        title: "pHPA: A Proactive Autoscaling Framework For Microservice Chain"
+        sub_title: "pHPA: A Proactive Autoscaling Framework For Microservice Chain"
         description: Byungkwon Choi, Jinwoo Park, Chunghan Lee, Dongsu Han                
         link: https://conferences.sigcomm.org/events/apnet2021/papers/apnet2021-8.pdf       
         # link_text: Project Website
@@ -100,16 +100,17 @@ content:
     content:
       - layout: left
         title: KAIST
-        caption: 2015 - 2019.8
-        sub_title: BS Electrical Engineering
+        caption: 2021 - 
+        sub_title: Ph.D. Electrical Engineering
       - layout: left
         title: KAIST
         caption: 2019 - 2021.8
         sub_title: MS Electrical Engineering
       - layout: left
         title: KAIST
-        caption: 2021 - 
-        sub_title: Ph.D. Electrical Engineering
+        caption: 2015 - 2019.8
+        sub_title: BS Electrical Engineering
+
 
 #  - title: A Little More About Me
 #    layout: text
