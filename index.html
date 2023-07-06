@@ -324,33 +324,39 @@
 
               <div class="row">
 
-                  <div class="col-sm-2 abbr"><abbr class="badge">CoNEXT</abbr></div>
+                  <div class="col-sm-2 abbr"><abbr class="badge">CVPR</abbr></div>
     
                   <!-- Entry bib key -->
                   <div id="PhysRev.47.777" class="col-sm-8">
                   
                     <!-- Title -->
-                    <div class="title">Co-optimizing for Flow Completion Time in Radio Access Network</div>
+                    <div class="title">AccelIR: Task-Aware Image Compression for Accelerating Neural Restoration</div>
                     <!-- Author -->
                     <div class="author">
-                            Jaehong Kim, Yunheon Lee, Hwijoon Lim, <em>Youngmok Jung</em>, Song Min Kim, and Dongsu Han
+                            Juncheol Ye, Hyunho Yeo <em>Jinwoo, Park</em>, and Dongsu Han
                             
                     </div>
     
                     <!-- Journal/Book title and date -->
                     <div class="periodical">
-                      <em> In Proceedings of the 18th International Conference on emerging Networking EXperiments and Technologies,</em> 2022
+                      <em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition,</em> 2023
                     </div>
                   
                     <!-- Links/Buttons -->
                     <div class="links">
                       <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
-                      <a href="https://dl.acm.org/doi/abs/10.1145/3555050.3569122" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">HTML</a>
+                      <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Ye_AccelIR_Task-Aware_Image_Compression_for_Accelerating_Neural_Restoration_CVPR_2023_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">HTML</a>
                     </div>
     
                     <!-- Hidden abstract block -->
                     <div class="abstract hidden">
-                      <p>Traffic from interactive applications demanding low latency has become dominant in cellular networks. However, existing schedulers of cellular network base stations fall short in delivering low latency when prior information (i.e., dedicated Quality of Service (QoS)) is unavailable; they become service agnostic and perform towards maximizing the radio resource utilization or user fairness. We identify a new opportunity of providing a better latency for those latency-sensitive traffic flows by additionally taking the Flow Completion Time (FCT) into account in downlink scheduling at the base stations. However, the key challenges are 1) it can bring a severe cost in optimization metrics of the existing scheduler and 2) it should work without prior knowledge of the traffic. To this end, we present OutRAN, a practical flow scheduler designed for Radio Access Network that co-optimizes the FCT and optimization objectives of the cellular scheduler. The resulting system does not require prior information. Through simulation and over-the-air evaluation, we demonstrate that OutRAN outperforms the legacy LTE/5G schedulers in FCT, which leads to the reduction in webpage load time of Android phones.</p>
+                      <p>Recently, deep neural networks have been successfully applied for image restoration (IR)(eg, super-resolution, de-noising, de-blurring). Despite their promising performance, running IR networks requires heavy computation. 
+                      A large body of work has been devoted to addressing this issue by designing novel neural networks or pruning their parameters. 
+                      However, the common limitation is that while images are saved in a compressed format before being enhanced by IR, prior work does not consider the impact of compression on the IR quality. 
+                      In this paper, we present AccelIR, a framework that optimizes image compression considering the end-to-end pipeline of IR tasks. 
+                      AccelIR encodes an image through IR-aware compression that optimizes compression levels across image blocks within an image according to the impact on the IR quality. 
+                      Then, it runs a lightweight IR network on the compressed image, effectively reducing IR computation, while maintaining the same IR quality and image size. 
+                      Our extensive evaluation using seven IR networks shows that AccelIR can reduce the computing overhead of super-resolution, de-nosing, and de-blurring by 49%, 29%, and 32% on average, respectively.</p>                    
                     </div>
                   </div>
                 </div>
